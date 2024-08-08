@@ -18,3 +18,9 @@ body {
 .btn-primary:hover {
     background-color: #39a7cf;
 }
+.btn-success {
+    background-color: #49cfae;
+}
+.btn-success:hover {
+    background-color: #3eb094;
+}
