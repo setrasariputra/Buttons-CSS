@@ -12,3 +12,9 @@ body {
 .btn:hover {
     background-color: #abb4c1;
 }
+.btn-primary {
+    background-color: #4ec0e9;
+}
+.btn-primary:hover {
+    background-color: #39a7cf;
+}
