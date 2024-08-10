@@ -1,5 +1,6 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 .btn {
     display: inline-block;
@@ -8,6 +9,7 @@ body {
     text-decoration: none;
     color: white;
     border-radius: 5px;
+    margin-right: 5px;
 }
 .btn:hover {
     background-color: #abb4c1;
@@ -23,4 +25,22 @@ body {
 }
 .btn-success:hover {
     background-color: #3eb094;
+}
+.btn-fancy {
+    padding: 15px 35px 15px 35px;
+    background-color: #e7ebee;
+    color: #39383d;
+    border-bottom: 4px solid #b7beca;
+    box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.2);
+}
+.btn-fancy:hover {
+    background-color: #dddddd;
+}
+.btn-fancy-softgreen {
+    background-color: #61c225;
+    border-bottom: 4px solid green;
+    color: white;
+}
+.btn-fancy-softgreen:hover {
+    background-color: #52a91c;
 }
