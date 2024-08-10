@@ -44,3 +44,27 @@ body {
 .btn-fancy-softgreen:hover {
     background-color: #52a91c;
 }
+.btn-fancy-blue {
+    background-color: #1b51ef;
+    border-bottom: 4px solid #142b90;
+    color: white;
+}
+.btn-fancy-blue:hover {
+    background-color: #1446da;
+}
+.btn-fancy-pink {
+    background-color: #FD177F;
+    color: #ffffff;
+    border-bottom: 4px solid #a4164b;
+}
+.btn-fancy-pink:hover {
+    background-color: #e1116e;
+}
+.btn-fancy-purple {
+    background-color: #9223e4;
+    color: #ffffff;
+    border-bottom: 4px solid #641d88;
+}
+.btn-fancy-purple:hover {
+    background-color: #8019ca;
+}
